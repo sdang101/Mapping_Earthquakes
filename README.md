@@ -8,3 +8,13 @@
 
 Code for Challenge: ![Challenge](https://github.com/sdang101/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/js/logicStep6.js)
 
+# Street
+![Street](https://github.com/sdang101/Mapping_Earthquakes/blob/Earthquake_Challenge/photos/street.png)
+
+# Satellite
+![Satellite](https://github.com/sdang101/Mapping_Earthquakes/blob/Earthquake_Challenge/photos/satellite.png)
+
+# Light
+![Light](https://github.com/sdang101/Mapping_Earthquakes/blob/Earthquake_Challenge/photos/light.png)
+
+
